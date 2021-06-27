@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624797852182,
+  "timestamp": 1624798097131,
   "index": "https://marcindl.github.io/cdv_pwa_27062021/index.html",
   "assetGroups": [
     {
@@ -49,7 +49,7 @@
     "https://marcindl.github.io/cdv_pwa_27062021/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://marcindl.github.io/cdv_pwa_27062021/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://marcindl.github.io/cdv_pwa_27062021/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://marcindl.github.io/cdv_pwa_27062021/index.html": "153a99f8a7dad65ef9a22465b13ab28b3107ea24",
+    "https://marcindl.github.io/cdv_pwa_27062021/index.html": "6ba1d6a6cacea6226847e6147a2dc98c33712231",
     "https://marcindl.github.io/cdv_pwa_27062021/main-es2015.8d766607df5d5f0df8f5.js": "8e6b3a48136030c4e2a83987fa99f08ea75403e3",
     "https://marcindl.github.io/cdv_pwa_27062021/main-es5.8d766607df5d5f0df8f5.js": "6e6a99ac162679235b4adf6821a8ea94d99ba919",
     "https://marcindl.github.io/cdv_pwa_27062021/manifest.webmanifest": "1b03002b66d5ee411fefe894dd964baa1a22a7db",
